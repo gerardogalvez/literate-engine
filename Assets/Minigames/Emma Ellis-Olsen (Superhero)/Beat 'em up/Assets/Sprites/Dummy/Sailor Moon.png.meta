@@ -1,0 +1,5575 @@
+fileFormatVersion: 2
+guid: 99e7a53de6e2b4fa99f2a8df072f498a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Sailor Moon_0
+  - first:
+      213: 21300002
+    second: Sailor Moon_1
+  - first:
+      213: 21300004
+    second: Sailor Moon_2
+  - first:
+      213: 21300006
+    second: Sailor Moon_3
+  - first:
+      213: 21300008
+    second: Sailor Moon_4
+  - first:
+      213: 21300010
+    second: Sailor Moon_5
+  - first:
+      213: 21300012
+    second: Sailor Moon_6
+  - first:
+      213: 21300014
+    second: Sailor Moon_7
+  - first:
+      213: 21300016
+    second: Sailor Moon_8
+  - first:
+      213: 21300018
+    second: Sailor Moon_9
+  - first:
+      213: 21300020
+    second: Sailor Moon_10
+  - first:
+      213: 21300022
+    second: Sailor Moon_11
+  - first:
+      213: 21300024
+    second: Sailor Moon_12
+  - first:
+      213: 21300026
+    second: Sailor Moon_13
+  - first:
+      213: 21300028
+    second: Sailor Moon_14
+  - first:
+      213: 21300030
+    second: Sailor Moon_15
+  - first:
+      213: 21300032
+    second: Sailor Moon_16
+  - first:
+      213: 21300034
+    second: Sailor Moon_17
+  - first:
+      213: 21300036
+    second: Sailor Moon_18
+  - first:
+      213: 21300038
+    second: Sailor Moon_19
+  - first:
+      213: 21300040
+    second: Sailor Moon_20
+  - first:
+      213: 21300042
+    second: Sailor Moon_21
+  - first:
+      213: 21300044
+    second: Sailor Moon_22
+  - first:
+      213: 21300046
+    second: Sailor Moon_23
+  - first:
+      213: 21300048
+    second: Sailor Moon_24
+  - first:
+      213: 21300050
+    second: Sailor Moon_25
+  - first:
+      213: 21300052
+    second: Sailor Moon_26
+  - first:
+      213: 21300054
+    second: Sailor Moon_27
+  - first:
+      213: 21300056
+    second: Sailor Moon_28
+  - first:
+      213: 21300058
+    second: Sailor Moon_29
+  - first:
+      213: 21300060
+    second: Sailor Moon_30
+  - first:
+      213: 21300062
+    second: Sailor Moon_31
+  - first:
+      213: 21300064
+    second: Sailor Moon_32
+  - first:
+      213: 21300066
+    second: Sailor Moon_33
+  - first:
+      213: 21300068
+    second: Sailor Moon_34
+  - first:
+      213: 21300070
+    second: Sailor Moon_35
+  - first:
+      213: 21300072
+    second: Sailor Moon_36
+  - first:
+      213: 21300074
+    second: Sailor Moon_37
+  - first:
+      213: 21300076
+    second: Sailor Moon_38
+  - first:
+      213: 21300078
+    second: Sailor Moon_39
+  - first:
+      213: 21300080
+    second: Sailor Moon_40
+  - first:
+      213: 21300082
+    second: Sailor Moon_41
+  - first:
+      213: 21300084
+    second: Sailor Moon_42
+  - first:
+      213: 21300086
+    second: Sailor Moon_43
+  - first:
+      213: 21300088
+    second: Sailor Moon_44
+  - first:
+      213: 21300090
+    second: Sailor Moon_45
+  - first:
+      213: 21300092
+    second: Sailor Moon_46
+  - first:
+      213: 21300094
+    second: Sailor Moon_47
+  - first:
+      213: 21300096
+    second: Sailor Moon_48
+  - first:
+      213: 21300098
+    second: Sailor Moon_49
+  - first:
+      213: 21300100
+    second: Sailor Moon_50
+  - first:
+      213: 21300102
+    second: Sailor Moon_51
+  - first:
+      213: 21300104
+    second: Sailor Moon_52
+  - first:
+      213: 21300106
+    second: Sailor Moon_53
+  - first:
+      213: 21300108
+    second: Sailor Moon_54
+  - first:
+      213: 21300110
+    second: Sailor Moon_55
+  - first:
+      213: 21300112
+    second: Sailor Moon_56
+  - first:
+      213: 21300114
+    second: Sailor Moon_57
+  - first:
+      213: 21300116
+    second: Sailor Moon_58
+  - first:
+      213: 21300118
+    second: Sailor Moon_59
+  - first:
+      213: 21300120
+    second: Sailor Moon_60
+  - first:
+      213: 21300122
+    second: Sailor Moon_61
+  - first:
+      213: 21300124
+    second: Sailor Moon_62
+  - first:
+      213: 21300126
+    second: Sailor Moon_63
+  - first:
+      213: 21300128
+    second: Sailor Moon_64
+  - first:
+      213: 21300130
+    second: Sailor Moon_65
+  - first:
+      213: 21300132
+    second: Sailor Moon_66
+  - first:
+      213: 21300134
+    second: Sailor Moon_67
+  - first:
+      213: 21300136
+    second: Sailor Moon_68
+  - first:
+      213: 21300138
+    second: Sailor Moon_69
+  - first:
+      213: 21300140
+    second: Sailor Moon_70
+  - first:
+      213: 21300142
+    second: Sailor Moon_71
+  - first:
+      213: 21300144
+    second: Sailor Moon_72
+  - first:
+      213: 21300146
+    second: Sailor Moon_73
+  - first:
+      213: 21300148
+    second: Sailor Moon_74
+  - first:
+      213: 21300150
+    second: Sailor Moon_75
+  - first:
+      213: 21300152
+    second: Sailor Moon_76
+  - first:
+      213: 21300154
+    second: Sailor Moon_77
+  - first:
+      213: 21300156
+    second: Sailor Moon_78
+  - first:
+      213: 21300158
+    second: Sailor Moon_79
+  - first:
+      213: 21300160
+    second: Sailor Moon_80
+  - first:
+      213: 21300162
+    second: Sailor Moon_81
+  - first:
+      213: 21300164
+    second: Sailor Moon_82
+  - first:
+      213: 21300166
+    second: Sailor Moon_83
+  - first:
+      213: 21300168
+    second: Sailor Moon_84
+  - first:
+      213: 21300170
+    second: Sailor Moon_85
+  - first:
+      213: 21300172
+    second: Sailor Moon_86
+  - first:
+      213: 21300174
+    second: Sailor Moon_87
+  - first:
+      213: 21300176
+    second: Sailor Moon_88
+  - first:
+      213: 21300178
+    second: Sailor Moon_89
+  - first:
+      213: 21300180
+    second: Sailor Moon_90
+  - first:
+      213: 21300182
+    second: Sailor Moon_91
+  - first:
+      213: 21300184
+    second: Sailor Moon_92
+  - first:
+      213: 21300186
+    second: Sailor Moon_93
+  - first:
+      213: 21300188
+    second: Sailor Moon_94
+  - first:
+      213: 21300190
+    second: Sailor Moon_95
+  - first:
+      213: 21300192
+    second: Sailor Moon_96
+  - first:
+      213: 21300194
+    second: Sailor Moon_97
+  - first:
+      213: 21300196
+    second: Sailor Moon_98
+  - first:
+      213: 21300198
+    second: Sailor Moon_99
+  - first:
+      213: 21300200
+    second: Sailor Moon_100
+  - first:
+      213: 21300202
+    second: Sailor Moon_101
+  - first:
+      213: 21300204
+    second: Sailor Moon_102
+  - first:
+      213: 21300206
+    second: Sailor Moon_103
+  - first:
+      213: 21300208
+    second: Sailor Moon_104
+  - first:
+      213: 21300210
+    second: Sailor Moon_105
+  - first:
+      213: 21300212
+    second: Sailor Moon_106
+  - first:
+      213: 21300214
+    second: Sailor Moon_107
+  - first:
+      213: 21300216
+    second: Sailor Moon_108
+  - first:
+      213: 21300218
+    second: Sailor Moon_109
+  - first:
+      213: 21300220
+    second: Sailor Moon_110
+  - first:
+      213: 21300222
+    second: Sailor Moon_111
+  - first:
+      213: 21300224
+    second: Sailor Moon_112
+  - first:
+      213: 21300226
+    second: Sailor Moon_113
+  - first:
+      213: 21300228
+    second: Sailor Moon_114
+  - first:
+      213: 21300230
+    second: Sailor Moon_115
+  - first:
+      213: 21300232
+    second: Sailor Moon_116
+  - first:
+      213: 21300234
+    second: Sailor Moon_117
+  - first:
+      213: 21300236
+    second: Sailor Moon_118
+  - first:
+      213: 21300238
+    second: Sailor Moon_119
+  - first:
+      213: 21300240
+    second: Sailor Moon_120
+  - first:
+      213: 21300242
+    second: Sailor Moon_121
+  - first:
+      213: 21300244
+    second: Sailor Moon_122
+  - first:
+      213: 21300246
+    second: Sailor Moon_123
+  - first:
+      213: 21300248
+    second: Sailor Moon_124
+  - first:
+      213: 21300250
+    second: Sailor Moon_125
+  - first:
+      213: 21300252
+    second: Sailor Moon_126
+  - first:
+      213: 21300254
+    second: Sailor Moon_127
+  - first:
+      213: 21300256
+    second: Sailor Moon_128
+  - first:
+      213: 21300258
+    second: Sailor Moon_129
+  - first:
+      213: 21300260
+    second: Sailor Moon_130
+  - first:
+      213: 21300262
+    second: Sailor Moon_131
+  - first:
+      213: 21300264
+    second: Sailor Moon_132
+  - first:
+      213: 21300266
+    second: Sailor Moon_133
+  - first:
+      213: 21300268
+    second: Sailor Moon_134
+  - first:
+      213: 21300270
+    second: Sailor Moon_135
+  - first:
+      213: 21300272
+    second: Sailor Moon_136
+  - first:
+      213: 21300274
+    second: Sailor Moon_137
+  - first:
+      213: 21300276
+    second: Sailor Moon_138
+  - first:
+      213: 21300278
+    second: Sailor Moon_139
+  - first:
+      213: 21300280
+    second: Sailor Moon_140
+  - first:
+      213: 21300282
+    second: Sailor Moon_141
+  - first:
+      213: 21300284
+    second: Sailor Moon_142
+  - first:
+      213: 21300286
+    second: Sailor Moon_143
+  - first:
+      213: 21300288
+    second: Sailor Moon_144
+  - first:
+      213: 21300290
+    second: Sailor Moon_145
+  - first:
+      213: 21300292
+    second: Sailor Moon_146
+  - first:
+      213: 21300294
+    second: Sailor Moon_147
+  - first:
+      213: 21300296
+    second: Sailor Moon_148
+  - first:
+      213: 21300298
+    second: Sailor Moon_149
+  - first:
+      213: 21300300
+    second: Sailor Moon_150
+  - first:
+      213: 21300302
+    second: Sailor Moon_151
+  - first:
+      213: 21300304
+    second: Sailor Moon_152
+  - first:
+      213: 21300306
+    second: Sailor Moon_153
+  - first:
+      213: 21300308
+    second: Sailor Moon_154
+  - first:
+      213: 21300310
+    second: Sailor Moon_155
+  - first:
+      213: 21300312
+    second: Sailor Moon_156
+  - first:
+      213: 21300314
+    second: Sailor Moon_157
+  - first:
+      213: 21300316
+    second: Sailor Moon_158
+  - first:
+      213: 21300318
+    second: Sailor Moon_159
+  - first:
+      213: 21300320
+    second: Sailor Moon_160
+  - first:
+      213: 21300322
+    second: Sailor Moon_161
+  - first:
+      213: 21300324
+    second: Sailor Moon_162
+  - first:
+      213: 21300326
+    second: Sailor Moon_163
+  - first:
+      213: 21300328
+    second: Sailor Moon_164
+  - first:
+      213: 21300330
+    second: Sailor Moon_165
+  - first:
+      213: 21300332
+    second: Sailor Moon_166
+  - first:
+      213: 21300334
+    second: Sailor Moon_167
+  - first:
+      213: 21300336
+    second: Sailor Moon_168
+  - first:
+      213: 21300338
+    second: Sailor Moon_169
+  - first:
+      213: 21300340
+    second: Sailor Moon_170
+  - first:
+      213: 21300342
+    second: Sailor Moon_171
+  - first:
+      213: 21300344
+    second: Sailor Moon_172
+  - first:
+      213: 21300346
+    second: Sailor Moon_173
+  - first:
+      213: 21300348
+    second: Sailor Moon_174
+  - first:
+      213: 21300350
+    second: Sailor Moon_175
+  - first:
+      213: 21300352
+    second: Sailor Moon_176
+  - first:
+      213: 21300354
+    second: Sailor Moon_177
+  - first:
+      213: 21300356
+    second: Sailor Moon_178
+  - first:
+      213: 21300358
+    second: Sailor Moon_179
+  - first:
+      213: 21300360
+    second: Sailor Moon_180
+  - first:
+      213: 21300362
+    second: Sailor Moon_181
+  - first:
+      213: 21300364
+    second: Sailor Moon_182
+  - first:
+      213: 21300366
+    second: Sailor Moon_183
+  - first:
+      213: 21300368
+    second: Sailor Moon_184
+  - first:
+      213: 21300370
+    second: Sailor Moon_185
+  - first:
+      213: 21300372
+    second: Sailor Moon_186
+  - first:
+      213: 21300374
+    second: Sailor Moon_187
+  - first:
+      213: 21300376
+    second: Sailor Moon_188
+  - first:
+      213: 21300378
+    second: Sailor Moon_189
+  - first:
+      213: 21300380
+    second: Sailor Moon_190
+  - first:
+      213: 21300382
+    second: Sailor Moon_191
+  - first:
+      213: 21300384
+    second: Sailor Moon_192
+  - first:
+      213: 21300386
+    second: Sailor Moon_193
+  - first:
+      213: 21300388
+    second: Sailor Moon_194
+  - first:
+      213: 21300390
+    second: Sailor Moon_195
+  - first:
+      213: 21300392
+    second: Sailor Moon_196
+  - first:
+      213: 21300394
+    second: Sailor Moon_197
+  - first:
+      213: 21300396
+    second: Sailor Moon_198
+  - first:
+      213: 21300398
+    second: Sailor Moon_199
+  - first:
+      213: 21300400
+    second: Sailor Moon_200
+  - first:
+      213: 21300402
+    second: Sailor Moon_201
+  - first:
+      213: 21300404
+    second: Sailor Moon_202
+  - first:
+      213: 21300406
+    second: Sailor Moon_203
+  - first:
+      213: 21300408
+    second: Sailor Moon_204
+  - first:
+      213: 21300410
+    second: Sailor Moon_205
+  - first:
+      213: 21300412
+    second: Sailor Moon_206
+  - first:
+      213: 21300414
+    second: Sailor Moon_207
+  - first:
+      213: 21300416
+    second: Sailor Moon_208
+  - first:
+      213: 21300418
+    second: Sailor Moon_209
+  - first:
+      213: 21300420
+    second: Sailor Moon_210
+  - first:
+      213: 21300422
+    second: Sailor Moon_211
+  - first:
+      213: 21300424
+    second: Sailor Moon_212
+  - first:
+      213: 21300426
+    second: Sailor Moon_213
+  - first:
+      213: 21300428
+    second: Sailor Moon_214
+  - first:
+      213: 21300430
+    second: Sailor Moon_215
+  - first:
+      213: 21300432
+    second: Sailor Moon_216
+  - first:
+      213: 21300434
+    second: Sailor Moon_217
+  - first:
+      213: 21300436
+    second: Sailor Moon_218
+  - first:
+      213: 21300438
+    second: Sailor Moon_219
+  - first:
+      213: 21300440
+    second: Sailor Moon_220
+  - first:
+      213: 21300442
+    second: Sailor Moon_221
+  - first:
+      213: 21300444
+    second: Sailor Moon_222
+  - first:
+      213: 21300446
+    second: Sailor Moon_223
+  - first:
+      213: 21300448
+    second: Sailor Moon_224
+  - first:
+      213: 21300450
+    second: Sailor Moon_225
+  - first:
+      213: 21300452
+    second: Sailor Moon_226
+  - first:
+      213: 21300454
+    second: Sailor Moon_227
+  - first:
+      213: 21300456
+    second: Sailor Moon_228
+  - first:
+      213: 21300458
+    second: Sailor Moon_229
+  - first:
+      213: 21300460
+    second: Sailor Moon_230
+  - first:
+      213: 21300462
+    second: Sailor Moon_231
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sailor Moon_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1753
+        width: 46
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a0db9ec1ecc743d0b564fbe3b070862
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_1
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 1756
+        width: 42
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7ac4bd8e26274fcc9b2d1d60c9eb97f
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_2
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 1756
+        width: 38
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 630bf072cd8fa473e932b0806226fd78
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_3
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 1755
+        width: 32
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93a483c1415624dbc810a82c93a10bbf
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_4
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1755
+        width: 33
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67d555e43994443b1b40f44778f5c1bb
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_5
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 1755
+        width: 32
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42bb0e8502bfa4e01add8ea5f7c6bda3
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_6
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 1755
+        width: 35
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ede3f326a768423e88259c5196dcc00
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_7
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1755
+        width: 43
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db71c8fe99e304b7080f2d1d20fbb395
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_8
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 1755
+        width: 39
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80719f1d8688c4fdebeb61e7080b3812
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_9
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 1755
+        width: 32
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 250fd9572ee264e2cb46b6e4aeb163b5
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_10
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 1755
+        width: 31
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65cc06d9fb42648a6b410eaa8294bdca
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_11
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 1755
+        width: 36
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f7585535553748f487f17b36a6a1702
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_12
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 1678
+        width: 44
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a01785f2fdb14bb39cbbe82db9dc40f
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_13
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 1677
+        width: 46
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 061a8685a4c914b4688b51b2ad7e720e
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_14
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 1667
+        width: 44
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6146cd097d5ab473d9564ee4a2951d6d
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_15
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 1671
+        width: 35
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d175f7fe854f148eaa5accecbc434969
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_16
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1644
+        width: 41
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c983cf33ec40a43ef805b8b73a19a322
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_17
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 1645
+        width: 40
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4815047d03055493abcaf40acdd98e63
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_18
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 1646
+        width: 40
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1afad564b141a4f2da1636a70fc2f41d
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_19
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 1645
+        width: 36
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 075e11e458ce44acb8c6913499a9dde5
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_20
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 1644
+        width: 31
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6cdfbf911deb47d5a7295ad4a4e41b5
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_21
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 1645
+        width: 28
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e0f21c3be60045f28f7cf13a3e62373
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_22
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1646
+        width: 28
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e96e2dd8b5a4439fa7baf9d01fd924d
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_23
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 1645
+        width: 32
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89560f1cd8f8f4ae1a12e844ab7c3c5d
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_24
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1645
+        width: 45
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0e50bef9210c4d9dab939a54cc2abd3
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_28
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1520
+        width: 67
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c93d1979b7e674fdaa946d898204fb47
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_29
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1523
+        width: 70
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fddad3e861b1b4a479c2fd425bed16f3
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_30
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 1522
+        width: 73
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ad41d6a6966149c3a2e5001dc9997c9
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_31
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 1521
+        width: 74
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baf1737f13a6f4b409b80be0e30ac77e
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_32
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 1522
+        width: 69
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 201ac1df505f64b60aae26f7cbae8855
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_33
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 1522
+        width: 59
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbbc9847beeef4a63b2d8b40359bee2c
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_34
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 1526
+        width: 64
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5de85a67d1a54cefbd0a9e972f4f193
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_35
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 1524
+        width: 87
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4829f626a4b04f459a31d85e4ca2303
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_37
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1525
+        width: 106
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fedaff23bd92486eb24ae8d90781c83
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_38
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 1523
+        width: 84
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa84f2a9d8d98480bb16276c059dc844
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_41
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 1560
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b19d3ef9ee354bb6981f77bbdb2d977
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_42
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 1522
+        width: 68
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd7d7ec2ee6c941a7bfd8cabefc8af89
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_43
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1394
+        width: 55
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3482dc0a2a8aa47f7818aace8d5b81da
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_44
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 1394
+        width: 56
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8a3563663ca54d8b8c246da58714b5c
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_45
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1395
+        width: 68
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a2eb6a8ccd8a4352b8c47ebf882a3b0
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_46
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 1397
+        width: 62
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e48c2dccfff594c0d8e276deee9df949
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_47
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 1430
+        width: 94
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f88ac829d55f749da987061583966b18
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_48
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1409
+        width: 100
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e21a6175d4fa4deca3375ae2f69d530
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_49
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 1413
+        width: 92
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 974ed950d27dd4deca62ad68384b73c1
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_50
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 1407
+        width: 55
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fd9c064f8fcd401a860bc184d241cbb
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_51
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 1400
+        width: 38
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8a52057050a44577964ec877e54a0c6
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_52
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 1407
+        width: 40
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ce744ce491fd4781b950a3e7ba879e8
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_53
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 1418
+        width: 91
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aae9fd2741e7244648e2e84e29f1456c
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_54
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 1649
+        width: 103
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfebcfe758f7b4fa297729435636e48d
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_55
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1282
+        width: 75
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1424fe0fa26f04e38802335b43ae945d
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_56
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 1281
+        width: 85
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ab3eee311ba841e4938e3c65825b3cc
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_57
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 1380
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14b225da0ef884d8cabdfe310615f06e
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_58
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 1283
+        width: 54
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d80d4849def7480e94840ebade9be1d
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_59
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 1285
+        width: 40
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c5c2fb5deeba45e5aae894fa20d9ce5
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_60
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1280
+        width: 47
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7a24c25311bb44cdb0f7a7907c63acb
+      internalID: 21300120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_61
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 1280
+        width: 69
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90b0a133ea1d54785a89e497a0f88a05
+      internalID: 21300122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_62
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1282
+        width: 67
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 746a12171957348b1a7b375397fa39ea
+      internalID: 21300124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_63
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1282
+        width: 89
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd88fc53d0d54419e982e9724acd8fa6
+      internalID: 21300126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_64
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 1282
+        width: 83
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50fb67836bb8f4fadaa3ddbbf6d90ff3
+      internalID: 21300128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_65
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 1362
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09ac92499a3034275acfca0e54428146
+      internalID: 21300130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_66
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 1283
+        width: 54
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc0cd605b5c384ef9a122f5e57ab342f
+      internalID: 21300132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_67
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 1308
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e14fbd0486f3e43cdbc9152961345016
+      internalID: 21300134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_68
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1162
+        width: 65
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2407147238a9842858cae8732a2d4d6f
+      internalID: 21300136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_69
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 1162
+        width: 50
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56b9039d74c734c34808357fe88fceb7
+      internalID: 21300138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_70
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1170
+        width: 53
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d92244555ffdd40df9d044c55ecc325d
+      internalID: 21300140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_71
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1171
+        width: 85
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd9c8252fe88e45a1b48dbc1ac534613
+      internalID: 21300142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_72
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1173
+        width: 83
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35ab32abd245f43e38f672709ba20fbb
+      internalID: 21300144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_73
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1161
+        width: 82
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40a0d4dbfdcd64af2b8c0663963d6eb6
+      internalID: 21300146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_74
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 1162
+        width: 61
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d43ac3d39c13d4d9a827e67fbf509b3b
+      internalID: 21300148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_75
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 1164
+        width: 60
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad3a42fb198ad4225a257a5da3cd76c4
+      internalID: 21300150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_76
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1164
+        width: 60
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18633f6dbd0084ccf823cadad39464a7
+      internalID: 21300152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_77
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 1163
+        width: 84
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3de18343f780d4a52920a87d96917399
+      internalID: 21300154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_78
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 1164
+        width: 61
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c2a5c9fee8404df38d2538984f85127
+      internalID: 21300156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_79
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 1219
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4a50e3244e9c4354a159a83663d367f
+      internalID: 21300158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_80
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 1164
+        width: 72
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41f08ac35156b4c2e808ef32456f12d1
+      internalID: 21300160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_81
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 1212
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 545a74459ba114d2ca1d475eddbba004
+      internalID: 21300162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_82
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1208
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5eb918f9d9704a58b941c3d6681b174
+      internalID: 21300164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_83
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1199
+        width: 5
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e5bf35939e1f49409e92b802fed6fb6
+      internalID: 21300166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_84
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1162
+        width: 43
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91490b728336444b3a659ee52627812e
+      internalID: 21300168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_85
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 1162
+        width: 43
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20fe2e9e3e74c47549bf6e26edc630a6
+      internalID: 21300170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_86
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 1162
+        width: 43
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d862a6f5f52141c98b4c086f4ecbfc8
+      internalID: 21300172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_87
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 1017
+        width: 42
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c345297fd9804cf7809e6648dab1c22
+      internalID: 21300174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_88
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1029
+        width: 49
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cee1d0d49583d46a3966c622dfd33a20
+      internalID: 21300176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_89
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 1036
+        width: 63
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1841ffe3773ef4813aaa6b0944a1f1f8
+      internalID: 21300178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_90
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1037
+        width: 67
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ca978535bced4735b6f3831e02d6ed3
+      internalID: 21300180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_91
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1037
+        width: 67
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 876183bd0df284715982444c4150f733
+      internalID: 21300182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_92
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 1036
+        width: 63
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b52a6ca46cf754ee28b08f96cda0c9c2
+      internalID: 21300184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_93
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 1022
+        width: 57
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 109adb9ef5811464e8391187e37b1ff0
+      internalID: 21300186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_94
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 1010
+        width: 46
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f359deffc463246bf8e0ed77a332130a
+      internalID: 21300188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_95
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 1013
+        width: 43
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40dbe5c8605824eb198e679ca227e2e3
+      internalID: 21300190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_96
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 1013
+        width: 47
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b51fa811069f4e2195f8c14bb676374
+      internalID: 21300192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_97
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 1118
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb6d153159e8a440a82f6284e71d348c
+      internalID: 21300194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_98
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 1020
+        width: 42
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c698b371b890c475081dca12fc12974f
+      internalID: 21300196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_99
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1028
+        width: 51
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4d06c022abda45ca9a1baca807009f7
+      internalID: 21300198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_100
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 1020
+        width: 43
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7d29a944679a4509b4b3bfbb5deaefa
+      internalID: 21300200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_101
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 906
+        width: 91
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbcbdb91307c24abaa2da1720c5c1cd5
+      internalID: 21300202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_102
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 913
+        width: 107
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b5b629c8d21b4ad6914905cebbc68e7
+      internalID: 21300204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_103
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 913
+        width: 73
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bbaa4bae01f449e4bbd784e49ac79e1
+      internalID: 21300206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_104
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 923
+        width: 124
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a26e50875b7f4f0f9b97e6f1d7bd6ce
+      internalID: 21300208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_105
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 912
+        width: 70
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a1325f91bd9a4d17b0c5100146f8923
+      internalID: 21300210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_106
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 903
+        width: 109
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86df27d3cb60c46d980de8597a7f8aac
+      internalID: 21300212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_107
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 912
+        width: 64
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5149e7d72180b4ba0b50d898b52fe891
+      internalID: 21300214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_108
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 956
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6566a67625e84dbbb6ed66c8c99aa2b
+      internalID: 21300216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_109
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 917
+        width: 61
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0857c4cb8490b4d948e1e1211e503849
+      internalID: 21300218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_110
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 793
+        width: 48
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80742add074434458a567647986543f3
+      internalID: 21300220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_111
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 793
+        width: 61
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cab481f493944478ac9f38baf0e2ccd
+      internalID: 21300222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_112
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 792
+        width: 56
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbb4d6660e1b940b4a7faa0a24ae3ab2
+      internalID: 21300224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_113
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 793
+        width: 63
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec6d1c7630e63461a901d3fe04ccea84
+      internalID: 21300226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_114
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 792
+        width: 53
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e0322893f88847e29c6befb75f75e4d
+      internalID: 21300228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_115
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 793
+        width: 52
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe73cb095de7e449fb034262ada47249
+      internalID: 21300230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_116
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 794
+        width: 59
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77af900212cd14b0fbdc34741f6c9313
+      internalID: 21300232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_117
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 826
+        width: 104
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9970113cc31fd403fb56da3073e21707
+      internalID: 21300234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_118
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 830
+        width: 85
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16821a37dac404ca1b8865e6773b215e
+      internalID: 21300236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_119
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 836
+        width: 120
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63d02e539d19e4593ba61278fe851bec
+      internalID: 21300238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_120
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 824
+        width: 97
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ac7b9b7b7b354ab5b2611b56ec46a22
+      internalID: 21300240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_121
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 884
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b64c269ee13cf49f48ed225701e25866
+      internalID: 21300242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_122
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 794
+        width: 53
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f6d38e6088c24187bd91bd9f37d61e2
+      internalID: 21300244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_123
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 886
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc84f5f0a6f904ede84b5e396fcadc61
+      internalID: 21300246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_124
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 880
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72e13263386bb42b89a02bad128d65ce
+      internalID: 21300248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_125
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 862
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00a34fdeff84e455abc3a138c5dde50b
+      internalID: 21300250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_126
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 852
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 069a6ac82533a48ed8b72000671b0c8e
+      internalID: 21300252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_127
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 829
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 429fef62572d4413abcacee0392102a1
+      internalID: 21300254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_128
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 706
+        width: 91
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7da8164dc38d445b8bd269cc68c2b9ef
+      internalID: 21300256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_129
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 770
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c56dbcae89b5b4d328d62e30befef559
+      internalID: 21300258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_130
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 670
+        width: 64
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c0ff27a89d3442fea0c767194c2573b
+      internalID: 21300260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_131
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 670
+        width: 94
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b730850def8004f46b0025ac3a9c3225
+      internalID: 21300262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_132
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 733
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 477ca32d4d41d47f0b7a8f6f9f2592e9
+      internalID: 21300264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_133
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 689
+        width: 59
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fb7af1ef19b149bba51d9916a3c26d6
+      internalID: 21300266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_134
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 741
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52dc531f18db743359b19d9dc9a8d53d
+      internalID: 21300268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_135
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 704
+        width: 137
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4695cdf7070f4bcda677b852190f04d
+      internalID: 21300270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_136
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 715
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dbffba0c1e1041f39ae8f6f606dc07e
+      internalID: 21300272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_137
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 666
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb93ed1956e764823bb56502751f8ec7
+      internalID: 21300274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_138
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 666
+        width: 75
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa4001666854043ad8b0841772e50bc3
+      internalID: 21300276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_139
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 722
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbdf4d75103ee48f49308c6d0712b137
+      internalID: 21300278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_140
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 723
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0494ac226ad47443facc12d92300757d
+      internalID: 21300280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_141
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 666
+        width: 81
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b03008e8bf1e44bc4bd5909589d76e67
+      internalID: 21300282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_142
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 666
+        width: 81
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c97773926d39c4150825adf153a14d10
+      internalID: 21300284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_143
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 660
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24d8ce9b3434a403baa88a368b7075a3
+      internalID: 21300286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_144
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 598
+        width: 131
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb2599b6034514e4a80b0e2dc7da7990
+      internalID: 21300288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_145
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 660
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9e7924653f10443799005313b778fb8
+      internalID: 21300290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_146
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 600
+        width: 109
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7db2d3833408a490f9000e1846586ee9
+      internalID: 21300292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_147
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 558
+        width: 50
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc2b494a93e024700acc2967780de3c1
+      internalID: 21300294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_148
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 553
+        width: 63
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 333dc24fa9f1e462c8a6a5472d3a3d91
+      internalID: 21300296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_149
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 600
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f71a7949f620c4ed9889ad89562de645
+      internalID: 21300298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_150
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 553
+        width: 68
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 617b0d623802b4f46961ca42e91532bd
+      internalID: 21300300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_151
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 553
+        width: 95
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05fc3e6219c3540759c24e3d877a7fc4
+      internalID: 21300302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_152
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 610
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 905d2644ba26745cbbe694d7482742cd
+      internalID: 21300304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_153
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 598
+        width: 107
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49853ce2472044f59807e11936e8944b
+      internalID: 21300306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_154
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 552
+        width: 43
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33fa5522b265148cea2d72fe64c4f57c
+      internalID: 21300308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_155
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 550
+        width: 107
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc044c2964e644c1ab906dd03b857ae2
+      internalID: 21300310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_156
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 548
+        width: 115
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4acc84834b61145e1a5ce4f9b1762c94
+      internalID: 21300312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_157
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 554
+        width: 80
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8768dbba4d184406b9dc75bd38e8d71
+      internalID: 21300314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_158
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 409
+        width: 42
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0605da8799b2448638afe42f67c3ca59
+      internalID: 21300316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_159
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 408
+        width: 52
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a466c9fb54f084d99989cca5fa322542
+      internalID: 21300318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_160
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 409
+        width: 71
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0f2b766980f34f36b922737a0bfe5c2
+      internalID: 21300320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_161
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 410
+        width: 72
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f15af4c36ebf4352bd3e0532f71a53b
+      internalID: 21300322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_162
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 410
+        width: 60
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50861b6ab09b64aa8ac9c4494f11cddb
+      internalID: 21300324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_163
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 412
+        width: 54
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7136f0c9d9cad471cb05169bbd7b7ddf
+      internalID: 21300326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_164
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 412
+        width: 54
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86e94a35886494c5fa6587baf669f37f
+      internalID: 21300328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_165
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 407
+        width: 59
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0562a17dec6b4425d8c9ddb71053dab1
+      internalID: 21300330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_166
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 407
+        width: 49
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab6223c9bfd98464c9aab3ae46206f69
+      internalID: 21300332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_167
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 407
+        width: 59
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d31d57099ef734e4ca22c2c4964b4d2f
+      internalID: 21300334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_168
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 407
+        width: 68
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f68c700f6c4c44f349b13afaf2573cf7
+      internalID: 21300336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_169
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 407
+        width: 57
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a295539cb80244600a25b4ae217c80f9
+      internalID: 21300338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_170
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 407
+        width: 58
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e92a8160cfc646bdb4fe042baee68e2
+      internalID: 21300340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_171
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 270
+        width: 85
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ecd3d01313b547cda458339dd36a777
+      internalID: 21300342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_172
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 278
+        width: 79
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bca519733273745059f180e35af42823
+      internalID: 21300344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_173
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 274
+        width: 71
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95167919e93d2467ea28b551f104ff85
+      internalID: 21300346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_174
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 273
+        width: 71
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c313e0bfa92ac47c3a06625f15c1dfee
+      internalID: 21300348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_175
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 270
+        width: 71
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f3491fc84dbf474fbe595a7d4be11cd
+      internalID: 21300350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_176
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 271
+        width: 54
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 441ee874f2c244f1a95c356dfd4142ea
+      internalID: 21300352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_177
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 323
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fbfa92157ab948e1ac3637eec578db4
+      internalID: 21300354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_178
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 271
+        width: 84
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ae5097711547473f9cd9f7eeeb90e1d
+      internalID: 21300356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_179
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 272
+        width: 96
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 595b8c6612bf640848653eab8452331d
+      internalID: 21300358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_180
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 272
+        width: 84
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29ebebd970c3045b9ae4f8778e5c8e09
+      internalID: 21300360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_181
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 272
+        width: 76
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5a52c8ea971746d08aad79cf1f47fe8
+      internalID: 21300362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_182
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 249
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1de7c629284a6460db641acd614d472b
+      internalID: 21300364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_183
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 134
+        width: 41
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d984f93c0d76f4032b7410cdc1c1dad0
+      internalID: 21300366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_184
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 131
+        width: 41
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2f3fa9c197b84581aa5f90f965fea27
+      internalID: 21300368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_185
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 145
+        width: 88
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bc1df011f9644394b8aca584aa73cc2
+      internalID: 21300370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_186
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 145
+        width: 95
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e30bdf3dc8c374be7b7cdf9217a5c567
+      internalID: 21300372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_187
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 145
+        width: 88
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59322835dd7a442078fdfe4caa534558
+      internalID: 21300374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_188
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 237
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 962aaae3ff81345ad92763a9689b65dc
+      internalID: 21300376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_189
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 145
+        width: 60
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf24ffe09295d4694aa6cf05a18992b5
+      internalID: 21300378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_190
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 137
+        width: 49
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb5d6949a04784fd6bc45d68f108feb4
+      internalID: 21300380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_191
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 228
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae4844d85e1654082bf7feb4a54737af
+      internalID: 21300382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_192
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 134
+        width: 40
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: accda262a53b74ea4a97e05b8a5f6782
+      internalID: 21300384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_193
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 135
+        width: 34
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c3be36c3ebca465ba89bfbe67782e68
+      internalID: 21300386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_194
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 216
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fec4be67435864e31a7a7ec01da576c2
+      internalID: 21300388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_195
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 200
+        width: 7
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27eb6ad2d7fe34b649113aa1539cd395
+      internalID: 21300390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_196
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 208
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eafc8374852af4a16a56840e1d4c5315
+      internalID: 21300392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_197
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 154
+        width: 54
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 280e51f3efedb419ea205bd99702177a
+      internalID: 21300394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_198
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 202
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 117c8230317dd40c99f559faecf3345f
+      internalID: 21300396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_199
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 164
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6833546a178fa4350826bf01a5c0f282
+      internalID: 21300398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_200
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 161
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffd00766ae1ad4c7091ec9f17b530b90
+      internalID: 21300400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_201
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 4
+        width: 57
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69b9d3afa75c64ce2864657ab95a7060
+      internalID: 21300402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_202
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 5
+        width: 54
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efca7e80ae10c4a9e8a60897fef7f771
+      internalID: 21300404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_203
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 5
+        width: 54
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71a8f5a9fe5254e8e8a2c52e1b328ded
+      internalID: 21300406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_204
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 4
+        width: 57
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c125f0fa87fa8413889fe6f8f4b5e0ec
+      internalID: 21300408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_205
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 5
+        width: 54
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41ec56bd58c6243c78a34c461bc58756
+      internalID: 21300410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_206
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 5
+        width: 54
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66481e60d23424adbac9f60d4c417cef
+      internalID: 21300412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_207
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 82
+        width: 7
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10310f25159684976acac4e36ed46c2d
+      internalID: 21300414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_208
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 90
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f10a75932aa84f7185198c6eb3fb61c
+      internalID: 21300416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_209
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 95
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8c729eadceb64d52aa1d77ecba99256
+      internalID: 21300418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_210
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 84
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 270ce59204d474830a37661a81b754a8
+      internalID: 21300420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_211
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 84
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc330e562ffe248549f26be08b7c784b
+      internalID: 21300422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_212
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 82
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f2f19ddd08b548dc81fbc8686304eec
+      internalID: 21300424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_213
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 82
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a606b59303b4b4ec287df407d4db4da6
+      internalID: 21300426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_214
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 84
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25c65d4a141314aeabae6ea21d3d1f68
+      internalID: 21300428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_215
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 82
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d92e637b2b444588a6412df5fc5e151
+      internalID: 21300430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_216
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 71
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08726ad0e96b04a859c8b6b0737dc307
+      internalID: 21300432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_217
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 73
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0f22b3d560aa4c5c85fd89a834c2ab3
+      internalID: 21300434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_218
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 73
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13ef9e9ea8b574a898a0055f6d3c52ab
+      internalID: 21300436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_219
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 73
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bd1c199118a743dfb0cf94747fb1612
+      internalID: 21300438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_220
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 73
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f603266fc3bbd4eae91f7156f4fb57ef
+      internalID: 21300440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_221
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 62
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9297c44b5a294919a3955992cdd9c07
+      internalID: 21300442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_222
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 62
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e65929c9e79c49b99b0f99e98ae95eb
+      internalID: 21300444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_223
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 62
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fb0c782c641b4697bfedb52da9dd1e1
+      internalID: 21300446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_224
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 62
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52b655f8b707942aebfc18766ab78e26
+      internalID: 21300448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_225
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 52
+        width: 38
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 410fa9fb5e24b4fef9118340f5c69de2
+      internalID: 21300450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_226
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 52
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d849c714901f34b0d901706f7fc23742
+      internalID: 21300452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_227
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 52
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d333c79806b8e4156acf873ecf4d46d2
+      internalID: 21300454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_228
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 52
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03155ee9093af4d04ae9e40b8eba7b57
+      internalID: 21300456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_229
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 41
+        width: 29
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1b79d48f294748848a4ce58ba97bccc
+      internalID: 21300458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_230
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 41
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e614fdac40324ba3b6a9268b5684676
+      internalID: 21300460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Moon_231
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 41
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89aff01fe1df1410880e9a38948625fa
+      internalID: 21300462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: d2e73e6891cbc469ca6a270b8103b234
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Minigames/Emma Ellis-Olsen (Superhero)/Beat 'em up/Scenes/Manager.unity
+    guid: 3ba1ab77a8d92446cadeafa0e8577112
+  - enabled: 1
+    path: Assets/Minigames/Emma Ellis-Olsen (Superhero)/Beat 'em up/Scenes/Day.unity
+    guid: 4ec94c34071b24a90b653a521d67568d
+  m_configObjects: {}
